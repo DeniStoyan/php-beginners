@@ -1,6 +1,6 @@
 <html>
 <?php
-    $title = ""; // Site title
+    $title = ""; // Site title11111
     $pageTitle = ""; // This page title
     $aboutPath = ""; // Relative path to our about page
     $today = ""; // What day is today
